@@ -1,6 +1,6 @@
 # BladeGame alpha (Windows)
 
-**[Download the game (zip)](https://github.com/Qosmo123/BladeGame-alpha/releases/download/build-8/BladeGame_Alpha_Win64.zip)** - first published with build 8.
+**[Download the game (zip)](https://github.com/Qosmo123/BladeGame-alpha/releases/download/build-10/BladeGame_Alpha_Win64.zip)** - first published with build 10.
 
 1. Unzip anywhere and run `BladeGame.exe`.
 2. Windows SmartScreen may warn about an unsigned build: **More info -> Run anyway**.
